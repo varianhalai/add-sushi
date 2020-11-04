@@ -68,7 +68,7 @@ class AddTokenPanel extends Component {
     this.setState({ net: realNet })
   }
 
-  render (props, context) {
+  render (props) {
     const {
       tokenName,
       tokenSymbol,
