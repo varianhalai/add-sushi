@@ -22,7 +22,7 @@ class AddTokenPanel extends Component {
   constructor (props) {
     const {
       tokenName = 'SushiSwap',
-        tokenSymbol = 'xSUSHI',
+        tokenSymbol = 'SUSHI',
         tokenDecimals = 18,
         tokenAddress = sushiSwapAddress,
         tokenImage = sushi,
