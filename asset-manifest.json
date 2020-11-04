@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Add-Token/static/css/main.ff9dc689.chunk.css",
-    "main.js": "/Add-Token/static/js/main.15a1c009.chunk.js",
-    "main.js.map": "/Add-Token/static/js/main.15a1c009.chunk.js.map",
-    "runtime-main.js": "/Add-Token/static/js/runtime-main.768bfc43.js",
-    "runtime-main.js.map": "/Add-Token/static/js/runtime-main.768bfc43.js.map",
-    "static/js/2.0c9ba99c.chunk.js": "/Add-Token/static/js/2.0c9ba99c.chunk.js",
-    "static/js/2.0c9ba99c.chunk.js.map": "/Add-Token/static/js/2.0c9ba99c.chunk.js.map",
-    "static/js/3.5f0d1e46.chunk.js": "/Add-Token/static/js/3.5f0d1e46.chunk.js",
-    "static/js/3.5f0d1e46.chunk.js.map": "/Add-Token/static/js/3.5f0d1e46.chunk.js.map",
-    "index.html": "/Add-Token/index.html",
-    "static/css/main.ff9dc689.chunk.css.map": "/Add-Token/static/css/main.ff9dc689.chunk.css.map",
-    "static/js/2.0c9ba99c.chunk.js.LICENSE.txt": "/Add-Token/static/js/2.0c9ba99c.chunk.js.LICENSE.txt",
-    "static/media/coin.3036f619.jpg": "/Add-Token/static/media/coin.3036f619.jpg",
-    "static/media/download-metamask.d5ed3214.png": "/Add-Token/static/media/download-metamask.d5ed3214.png",
-    "static/media/sushiChef.2134ffdf.png": "/Add-Token/static/media/sushiChef.2134ffdf.png",
-    "static/media/switch-network.7edd19b2.jpg": "/Add-Token/static/media/switch-network.7edd19b2.jpg"
+    "main.css": "/add-sushi/static/css/main.ff9dc689.chunk.css",
+    "main.js": "/add-sushi/static/js/main.b825a819.chunk.js",
+    "main.js.map": "/add-sushi/static/js/main.b825a819.chunk.js.map",
+    "runtime-main.js": "/add-sushi/static/js/runtime-main.e6b92665.js",
+    "runtime-main.js.map": "/add-sushi/static/js/runtime-main.e6b92665.js.map",
+    "static/js/2.0c9ba99c.chunk.js": "/add-sushi/static/js/2.0c9ba99c.chunk.js",
+    "static/js/2.0c9ba99c.chunk.js.map": "/add-sushi/static/js/2.0c9ba99c.chunk.js.map",
+    "static/js/3.5f0d1e46.chunk.js": "/add-sushi/static/js/3.5f0d1e46.chunk.js",
+    "static/js/3.5f0d1e46.chunk.js.map": "/add-sushi/static/js/3.5f0d1e46.chunk.js.map",
+    "index.html": "/add-sushi/index.html",
+    "static/css/main.ff9dc689.chunk.css.map": "/add-sushi/static/css/main.ff9dc689.chunk.css.map",
+    "static/js/2.0c9ba99c.chunk.js.LICENSE.txt": "/add-sushi/static/js/2.0c9ba99c.chunk.js.LICENSE.txt",
+    "static/media/coin.3036f619.jpg": "/add-sushi/static/media/coin.3036f619.jpg",
+    "static/media/download-metamask.d5ed3214.png": "/add-sushi/static/media/download-metamask.d5ed3214.png",
+    "static/media/sushiChef.2134ffdf.png": "/add-sushi/static/media/sushiChef.2134ffdf.png",
+    "static/media/switch-network.7edd19b2.jpg": "/add-sushi/static/media/switch-network.7edd19b2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.768bfc43.js",
+    "static/js/runtime-main.e6b92665.js",
     "static/js/2.0c9ba99c.chunk.js",
     "static/css/main.ff9dc689.chunk.css",
-    "static/js/main.15a1c009.chunk.js"
+    "static/js/main.b825a819.chunk.js"
   ]
 }
