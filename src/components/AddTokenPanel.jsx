@@ -25,7 +25,7 @@ class AddTokenPanel extends Component {
         tokenSymbol = 'SUSHI',
         tokenDecimals = 18,
         tokenAddress = sushiSwapAddress,
-        tokenImage = sushi,
+        tokenImage = "https://i.imgur.com/gwqGnbQ.png",
         tokenNet = '1',
         message = '',
         errorMessage = '',
