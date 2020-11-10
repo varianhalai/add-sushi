@@ -15,14 +15,14 @@ import logo from '../assets/coin.jpg';
 import sushi from '../assets/sushiChef.png'
 import queryString from 'querystringify'
 
-const sushiSwapAddress = '0x6B3595068778DD592e39A122f4f5a5cF09C90fE2';
+const sushiSwapAddress = '0x2dbc7dd86c6cd87b525bd54ea73ebeebbc307f68';
 
 class AddTokenPanel extends Component {
 
   constructor (props) {
     const {
-      tokenName = 'SUSHI',
-        tokenSymbol = 'SUSHI',
+      tokenName = 'SUSHI:WBTC-TBTC',
+        tokenSymbol = 'SLP',
         tokenDecimals = 18,
         tokenAddress = sushiSwapAddress,
         tokenImage = "https://i.imgur.com/gwqGnbQ.png",
